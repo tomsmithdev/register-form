@@ -1,3 +1,3 @@
 # register-form
 
-Basic Register form with HTML CSS.
+Basic Register form with HTML/CSS.
